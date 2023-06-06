@@ -1,0 +1,12 @@
+name,phone,email,id,position,salary
+NoamLevi,052-1234567,noamlevi@gmail.com,1234,Waiter,7000
+DanaCohen,054-2345678,danacohen@gmail.com,2345,RestaurantManager,12000
+AviAvrahami,050-3456789,aviavrahami@gmail.com,3456,Chef,15000
+YaelBenSimon,058-4567890,yaelbensimon@gmail.com,4567,Waiter,7000
+YossiCohen,052-5678901,yossicohen@gmail.com,5678,Waiter,7000
+MiriDavidov,050-6789012,miridavidov@gmail.com,6789,Bartender,8000
+OrCohen,054-7890123,orcohen@gmail.com,7890,RestaurantManager,12000
+NofarLevi,058-8901234,nofarlevi@gmail.com,8901,Waiter,7000
+DavidLevi,050-9012345,davidlevi@gmail.com,9012,Chef,15000
+
+

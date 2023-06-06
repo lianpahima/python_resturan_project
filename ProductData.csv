@@ -1,0 +1,16 @@
+name,price,is_vegetarian,id
+PadThai,65,False,1
+MisoSoup,30,True,2
+MakiRoll,30,False,3
+TunaNigiri,38,False,4
+SalmonSashimi,55,False,5
+TempuraRoll,60,False,6
+VegetableRoll,30,True,7
+CucumberRoll,34,True,8
+AvocadoRoll,36,True,9
+SweetPotatoRoll,36,True,10
+Tiramisu,50,False,11
+ChocolateBrownie,45,True,12
+CrackPie,45,True,13
+CremeBrulee,55,True,14
+VanileTart,40,True,15

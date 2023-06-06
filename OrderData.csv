@@ -1,0 +1,2 @@
+order_id,table_id,products,total_amount,customer_id,status
+2,3,CremeBrulee,200,1002,confirmed
